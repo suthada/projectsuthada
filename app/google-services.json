@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742380099930",
+    "project_id": "projectsuthada",
+    "storage_bucket": "projectsuthada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742380099930:android:a4e4da0c510686b46d7b63",
+        "android_client_info": {
+          "package_name": "th.ac.kku.cis.projectsuthada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMF4I5Ea6GhIPxnm1yzM54GBmpJ_FPDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
